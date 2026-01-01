@@ -10,7 +10,7 @@ I am a developer focused on building and optimizing digital environments. My exp
 
 ---
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/machado-jvr07/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/machado-jvr07/)
 
 ---
 # 💻 Tech Stack & Tools:
