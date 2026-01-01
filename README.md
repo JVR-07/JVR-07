@@ -26,9 +26,9 @@ I am a developer focused on building and optimizing digital environments. My exp
 ### Other  
 ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JVR-07&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=JVR-07&theme=shades-of-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JVR-07&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=JVR-07&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&cache=1)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=JVR-07&theme=shades-of-purple&hide_border=false&cache=1)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JVR-07&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache=1)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=JVR-07&limit=5&theme=dark&combine_all_yearly_contributions=true)
