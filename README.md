@@ -1,12 +1,13 @@
 # Hi there, I'm JVR-07 👋
 
-### Cloud & Infrastructure Enthusiast ☁️ | Low-Level Explorer 💻
+### Full Stack Developer 🌐 | Cloud & Infrastructure Enthusiast ☁️ | Aspiring Architect 🏗️
 
-I am a developer focused on building and optimizing digital environments. My expertise lies in **Azure**, **AWS**, **Ubuntu Server**, and **Self-hosting** solutions, with a current focus on bridge-ing the gap between high-level infrastructure and low-level hardware.
+I am a developer focused on **Full Stack Development** with a deep interest in the entire **Cloud ecosystem**, spanning from Web Apps to IoT. Beyond code, I am passionate about infrastructure—I enjoy configuring and deploying my own environments on **VPS** and **bare-metal servers**.
 
-- 🔭 **Currently working on:** Automating cloud environments and managing self-hosted server ecosystems.
-- 🌱 **Learning & Exploring:** Low-level programming (C/C++) and Embedded Systems.
-- ⚡ **Goal:** Building more efficient, hardware-aware environments and specialized automation.
+- 🔭 **Currently focusing on:** Building full-stack applications by integrating Frontend, Backend, and SQL databases.
+- 🌱 **Exploring:** **Embedded Systems**, **IoT**, and **Software Architecture**, laying the groundwork for a future in DevOps and System Design.
+- 🔬 **Deep Dive:** Researching **High-Performance Critical Systems** (low latency, efficiency, low-level languages).
+- ⚡ **Goal:** To engineer **robust, scalable, and secure** solutions that solve complex problems through process optimization.
 
 ---
 ## 🌐 Socials:
