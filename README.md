@@ -31,5 +31,3 @@ I am a developer focused on **Full Stack Development** with a deep interest in t
 ![](https://nirzak-streak-stats.vercel.app/?user=JVR-07&theme=shades-of-purple&hide_border=false&cache=1)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JVR-07&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache=1)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=JVR-07&limit=5&theme=dark&combine_all_yearly_contributions=true)
